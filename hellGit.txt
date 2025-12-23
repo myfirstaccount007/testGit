@@ -1,6 +1,6 @@
 hello git ha111
 hello git ha222
-hello git ha
+hello git ha otherdic commit
 hello git ha
 hello git ha
 hello git ha
